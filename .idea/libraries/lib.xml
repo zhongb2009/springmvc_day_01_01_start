@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SpringMVC_one/target/SpringMVC_one/WEB-INF/lib/spring-beans-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpringMVC_one/target/SpringMVC_one/WEB-INF/lib/spring-context-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpringMVC_one/target/SpringMVC_one/WEB-INF/lib/spring-webmvc-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpringMVC_one/target/SpringMVC_one/WEB-INF/lib/spring-core-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpringMVC_one/target/SpringMVC_one/WEB-INF/lib/spring-aop-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpringMVC_one/target/SpringMVC_one/WEB-INF/lib/spring-expression-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpringMVC_one/target/SpringMVC_one/WEB-INF/lib/spring-jcl-5.2.1.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SpringMVC_one/target/SpringMVC_one/WEB-INF/lib/spring-web-5.2.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
